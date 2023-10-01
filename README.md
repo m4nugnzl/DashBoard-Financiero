@@ -45,9 +45,3 @@ No se permite el uso de este proyecto o su contenido con fines comerciales sin e
 
 Si realiza modificaciones en este proyecto y desea distribuirlo, debe respetar los mismos términos de derechos de autor y proporcionar una referencia a este repositorio original.
 
-### Contacto
-
-Si tienes preguntas sobre cómo puedes utilizar este proyecto o deseas obtener permisos para fines comerciales, por favor contáctame en m4nugnzl@gmail.com
-
-Manuel González Fernández se reserva el derecho de tomar medidas legales apropiadas contra cualquier uso no autorizado de este proyecto.
-
